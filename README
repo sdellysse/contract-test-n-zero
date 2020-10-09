@@ -1,0 +1,3 @@
+This project is a skeleton for design-by-contract in js.
+
+Running into this problem, when running `GET http://localhost:3000/fib/5` I get an error `precondition failed: n > 0`. Not sure why
